@@ -1,3 +1,9 @@
+Tras extraer el .zip de python 3.7 ejecutar la consola alojada en Portable Python 3.7 (Archivo Console-Launcher.exe)
+
+comando para realizar el pip:
+
+Python -m pip install "paquete"
+
 pip install realizados:
 	nltk
 	bs4
