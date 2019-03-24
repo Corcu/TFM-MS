@@ -1,0 +1,6 @@
+pip install realizados:
+	nltk
+	bs4
+	beautifulSoup
+	html5lib
+	matplotlib
